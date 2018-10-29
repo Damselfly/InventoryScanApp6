@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Inventory Scan</string>
+    <string name="btnReview">Review</string>
+    <string name="btnNotScan">Not Found</string>
+    <string name="btnBack">Back</string>
+    <string name="btnExit">Exit</string>
+    <string name="btnAccept">Accept</string>
+    <string name="btnAppend">Append</string>
+    <string name="strLocation">Location</string>
+    <string name="strItem">Item</string>
+    <string name="strUoM">Unit of Measure</string>
+    <string name="strCount">Count</string>
+    <string name="strQuantity">Quantity</string>
+    <string name="strDate">Date</string>
+
+    <string-array name="UnitsOfMeasue">
+
+        <item>0</item>
+        <item>100</item>
+        <item>500</item>
+        <item>1000</item>
+        <item>2500</item>
+        <item>5000</item>
+        <item>12000</item>
+        <item>15000</item>
+        <item>22500</item>
+        <item>24000</item>
+        <item>27000</item>
+        <item>30000</item>
+        <item>35000</item>
+        <item>40000</item>
+        <item>48000</item>
+        <item>50000</item>
+        <item>60000</item>
+        <item>70000</item>
+        <item>75000</item>
+        <item>84000</item>
+        <item>90000</item>
+        <item>100000</item>
+        <item>110000</item>
+        <item>120000</item>
+        <item>130000</item>
+
+    </string-array>
+
+</resources>
