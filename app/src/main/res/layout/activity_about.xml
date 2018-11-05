@@ -28,4 +28,13 @@
         android:layout_alignEnd="@+id/btnClose"
         android:layout_marginTop="55dp"
         android:id="@+id/textView" />
+
+    <CheckBox
+        android:text="CheckBox"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView"
+        android:layout_alignStart="@+id/btnClose"
+        android:layout_marginTop="48dp"
+        android:id="@+id/checkBox" />
 </RelativeLayout>
