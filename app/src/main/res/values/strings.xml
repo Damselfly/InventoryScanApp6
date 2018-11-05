@@ -12,6 +12,7 @@
     <string name="strCount">Count</string>
     <string name="strQuantity">Quantity</string>
     <string name="strDate">Date</string>
+    <string name="Close">Close</string>
 
     <string-array name="UnitsOfMeasue">
 
